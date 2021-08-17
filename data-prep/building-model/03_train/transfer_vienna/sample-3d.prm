@@ -1,0 +1,52 @@
+++PARAM_SMP_START++
+
+# DIRECTORIES
+# ------------------------------------------------------------------------
+# Level-2 datapool (input)
+DIR_LOWER = /data/Jakku/germany-height/pred6
+# LSP datapool (input, optional)
+DIR_MASK = NULL
+BASE_MASK = NULL
+# Level-3 datapool (output)
+DIR_HIGHER = /data/Jakku/germany-height/sample6-vienna
+# White list of input/output tiles
+FILE_TILE  = /data/Jakku/germany-height/sample6-vienna/vienna.til
+
+# SPATIAL PROPERTIES
+# ------------------------------------------------------------------------
+# Composite extent in tile coordinates
+X_TILE_RANGE = 77 78
+Y_TILE_RANGE = 58 59
+# Spatial resolution of composite
+# Image decimation/replication is taken care of
+RESOLUTION = 10
+BLOCK_SIZE = DEFAULT
+# Use an approx. Point Spread Function when reducing spatial resolution
+REDUCE_PSF = FALSE
+
+# MISCELLANEOUS
+# ------------------------------------------------------------------------
+# Number of CPUs for parallel processing
+
+OUTPUT_OVERWRITE = FALSE
+
+NTHREAD_READ = 13
+NTHREAD_WRITE = 1
+NTHREAD_COMPUTE = 8
+OUTPUT_FORMAT = GTiff
+
+PROJECTED = TRUE
+
+
+FILE_POINTS = /data/Jakku/germany-height/sample6-vienna/sample-val.txt
+FILE_SAMPLE = /data/Jakku/germany-height/sample6-vienna/pred6-val.txt
+FILE_RESPONSE = /data/Jakku/germany-height/sample6-vienna/3dmodel-val.txt
+FILE_COORDINATES = /data/Jakku/germany-height/sample6-vienna/coordinates-val.txt
+
+INPUT_FEATURE = NEWFILE_MLP.tif 1
+FEATURE_NODATA = -9999
+FEATURE_EXCLUDE = FALSE
+
+
+++PARAM_SMP_END++
+
