@@ -1,0 +1,298 @@
+<VRTDataset rasterXSize="24000" rasterYSize="21000">
+  <SRS>PROJCS["unnamed",GEOGCS["GRS 1980(IUGG, 1980)",DATUM["unknown",SPHEROID["GRS80",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["latitude_of_center",52],PARAMETER["longitude_of_center",10],PARAMETER["false_easting",4321000],PARAMETER["false_northing",3210000],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
+  <GeoTransform>  4.2860262500000000e+06,  1.0000000000000000e+01,  0.0000000000000000e+00,  3.1949195000000000e+06,  0.0000000000000000e+00, -1.0000000000000000e+01</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">50.19828414917</MDI>
+      <MDI key="STATISTICS_MEAN">0.055406232559369</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.73986693781396</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">31.5</MDI>
+    </Metadata>
+    <NoDataValue>-3.4e+38</NoDataValue>
+    <ColorInterp>Gray</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.09842800813562745</HistMin>
+        <HistMax>50.29671215730563</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>157639157|0|0|0|0|0|0|0|0|0|28|116|357|1245|2574|3943|4020|3767|3717|3683|3571|3483|3541|3339|3509|3862|4298|4823|5703|6894|7387|9271|10593|12630|15355|18257|21682|25817|30264|34870|39164|42919|46147|47606|49349|48055|45704|42502|38384|34325|29385|25968|21851|18372|15818|13687|11979|10751|9418|8293|7454|6885|6266|5780|5387|4968|4760|4441|4172|4077|3882|3609|3416|3145|2933|2833|2594|2385|2249|2156|1890|1804|1650|1774|1524|1491|1442|1255|1229|1099|902|804|740|679|612|506|497|450|369|352|348|315|301|253|238|192|152|110|99|129|99|88|80|101|58|61|48|64|50|61|32|40|48|40|47|28|35|28|23|23|15|18|21|20|19|14|14|13|12|18|12|11|9|9|15|15|11|12|6|14|9|9|8|16|14|12|15|14|3|6|12|13|7|19|12|5|11|10|7|14|25|15|9|6|6|16|9|4|8|11|7|3|2|11|11|4|6|1|6|3|3|2|2|1|1|2|4|4|0|2|1|2|0|1|1|5|1|3|0|0|0|1|0|0|1|0|5|3|1|0|2|0|0|0|1|0|1|0|2|0|0|0|0|1|0|0|1|1|1|0|6|1|5|1|0|0|8|2|1|1|3|1|0|0|10|32</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0061_Y0047/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="0" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0066_Y0051/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="15000" yOff="15000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0047/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0066_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="15000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0065_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="12000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0052/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="18000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0046/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="0" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0067_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="18000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0066_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="15000" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0064_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="9000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0065_Y0047/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="12000" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0065_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="12000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0068_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="21000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0064_Y0046/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="9000" yOff="0" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0065_Y0051/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="12000" yOff="15000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0064_Y0051/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="9000" yOff="15000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0047/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0064_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="9000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0051/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="15000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0068_Y0048/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="21000" yOff="6000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0051/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="15000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0067_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="18000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0067_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="18000" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0066_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="15000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0065_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="12000" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0061_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="0" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0064_Y0047/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="9000" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0063_Y0049/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="6000" yOff="9000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0064_Y0050/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="9000" yOff="12000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>

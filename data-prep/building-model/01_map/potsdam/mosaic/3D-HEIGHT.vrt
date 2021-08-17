@@ -1,0 +1,48 @@
+<VRTDataset rasterXSize="6000" rasterYSize="6000">
+  <SRS>PROJCS["unnamed",GEOGCS["GRS 1980(IUGG, 1980)",DATUM["unknown",SPHEROID["GRS80",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["latitude_of_center",52],PARAMETER["longitude_of_center",10],PARAMETER["false_easting",4321000],PARAMETER["false_northing",3210000],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
+  <GeoTransform>  4.4960262500000000e+06,  1.0000000000000000e+01,  0.0000000000000000e+00,  3.2849195000000000e+06,  0.0000000000000000e+00, -1.0000000000000000e+01</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">28.086849212646</MDI>
+      <MDI key="STATISTICS_MEAN">0.037812183603452</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.64790918672151</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">24.26</MDI>
+    </Metadata>
+    <NoDataValue>-3.4e+38</NoDataValue>
+    <ColorInterp>Gray</ColorInterp>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0068_Y0044/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="0" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0069_Y0043/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="0" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0068_Y0043/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0069_Y0044/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>

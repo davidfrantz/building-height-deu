@@ -1,0 +1,58 @@
+<VRTDataset rasterXSize="6000" rasterYSize="6000">
+  <SRS>PROJCS["unnamed",GEOGCS["GRS 1980(IUGG, 1980)",DATUM["unknown",SPHEROID["GRS80",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["latitude_of_center",52],PARAMETER["longitude_of_center",10],PARAMETER["false_easting",4321000],PARAMETER["false_northing",3210000],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
+  <GeoTransform>  4.2860262500000000e+06,  1.0000000000000000e+01,  0.0000000000000000e+00,  3.4049195000000000e+06,  0.0000000000000000e+00, -1.0000000000000000e+01</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">36.841373443604</MDI>
+      <MDI key="STATISTICS_MEAN">0.56294420435398</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">2.4923094511289</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">20.05</MDI>
+    </Metadata>
+    <NoDataValue>-3.4e+38</NoDataValue>
+    <ColorInterp>Gray</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.07223798714432157</HistMin>
+        <HistMax>36.91361143074832</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>6779782|0|0|0|0|0|0|0|0|0|0|0|0|0|15|26|147|497|1335|2640|4192|5363|4809|4570|3529|2470|2018|1668|1557|1659|1591|1727|1890|2205|2517|2806|3038|3555|4000|4548|5072|5455|5990|6347|7188|7946|8874|9382|10035|10858|11480|11578|11640|11709|11676|11285|10625|9872|9462|8835|8283|7800|7227|6731|6452|6137|5817|5462|5325|4899|4603|4134|3909|3611|3403|3330|3202|3072|2923|2770|2692|2556|2373|2283|2278|2212|2118|2080|2274|2210|2044|2092|1920|1792|1931|1742|1731|1720|1686|1645|1655|1656|1676|1546|1508|1507|1558|1556|1513|1367|1411|1404|1368|1295|1265|1223|1256|1173|1120|1051|1046|1029|927|975|914|918|894|836|845|771|790|741|729|684|653|571|552|518|511|509|443|406|425|386|375|359|361|357|376|302|312|279|244|242|228|264|202|254|214|178|213|172|156|164|147|159|152|182|165|165|111|156|115|125|150|106|119|117|104|114|89|82|73|76|99|87|83|85|79|75|78|54|66|44|50|48|40|52|48|44|72|44|43|54|48|53|37|38|28|38|35|36|27|29|16|29|40|27|27|25|21|22|21|20|19|20|18|21|15|14|10|21|17|11|17|20|7|12|15|13|9|12|6|5|7|15|14|10|18|9|12|12|7|10|12|369</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0061_Y0039/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0039/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="0" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0062_Y0040/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="3000" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">../X0061_Y0040/3D-HEIGHT.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3000" RasterYSize="3000" DataType="Float32" BlockXSize="3000" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3000" ySize="3000" />
+      <DstRect xOff="0" yOff="3000" xSize="3000" ySize="3000" />
+      <NODATA>-3.4e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
