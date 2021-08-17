@@ -1,0 +1,14 @@
+FORCE - Framework for Operational Radiometric Correction for Environmental monitoring
+Version 3.2.1
+Copyright (C) 2013-2020 David Frantz, david.frantz@geo.hu-berlin.de
+
+FORCE is free software under the terms of the GNU General Public License as published by the Free Software Foundation, see <http://www.gnu.org/licenses/>.
+
+Thank you for using FORCE! This software is being developed in the hope that it will be helpful for you and your work.
+
+However, it is requested that you to use the software in accordance with academic standards and fair usage. Without this, software like FORCE will not survive. This includes citation of the software and the scientific publications, proper acknowledgement in any public presentation, or an offer of co-authorship of scientific articles in case substantial help in setting up, modifying or running the software is provided by the author(s).
+
+Here are suggestions for references to be cited. This list is based on your specific parameterization:
+
+FORCE - the overall framework:
+Frantz, D. (2019). FORCE—Landsat + Sentinel-2 Analysis Ready Data and Beyond. Remote Sensing, 11, 1124

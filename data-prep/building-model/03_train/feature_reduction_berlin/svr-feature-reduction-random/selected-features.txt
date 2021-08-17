@@ -1,0 +1,50 @@
+VH	Average	Opening
+RED	090%	Erosion
+NIR2	100%	Blackhat
+TC Green	050%	Closing
+VV	010%	Opening
+RE3	075%	Erosion
+NIR2	090%	Erosion
+VV	Average	Closing
+Blue	000%	Gradient
+Green	000%	Closing
+TC Green	Average	Opening
+TC Green	000%	Closing
+RE2	075%	Erosion
+RE2	090%	Opening
+Blue	025%	Closing
+TC Bright	025%	Erosion
+NIR	Average	Opening
+RE3	Average	Erosion
+Green	Average	Erosion
+RE2	010%	Opening
+NIR	010%	Opening
+VV	075%	Closing
+VV	075%	Closing
+mNDWI	025%	Gradient
+VV	Kurtosis	Opening
+VH	Average	Closing
+VH	025%	Dilation
+Blue	000%	Dilation
+NIR	090%	Opening
+Blue	025%	Dilation
+TC Green	025%	Erosion
+NIR2	075%	Erosion
+RE2	010%	Erosion
+VH	Average	Dilation
+VV	Kurtosis	Opening
+VH	010%	Closing
+VV	000%	Dilation
+NIR	000%	Erosion
+NIR2	090%	Gradient
+RE2	Range	Opening
+VH	IQR	Dilation
+VV	Kurtosis	Opening
+mNDWI	025%	Gradient
+NIR	010%	Erosion
+Green	000%	Closing
+Green	Average	Opening
+VH	025%	Closing
+RE2	100%	Erosion
+RED	075%	Closing
+Green	000%	Gradient

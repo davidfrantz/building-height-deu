@@ -1,0 +1,1638 @@
+VH	090%	Closing	0.011183
+VH	050%	Closing	0.009906
+VV	075%	Closing	0.009331
+VH	075%	Closing	0.008569
+VH	Average	Closing	0.008182
+VH	Average	Dilation	0.007332
+VV	025%	Closing	0.007228
+VV	025%	Dilation	0.007205
+VH	075%	Dilation	0.006987
+VH	050%	Dilation	0.006302
+VV	010%	Closing	0.006048
+VV	050%	Closing	0.006022
+TC Green	000%	Opening	0.005762
+NIR	075%	Opening	0.005686
+RE2	010%	Opening	0.005669
+VH	100%	Closing	0.005659
+VV	090%	Opening	0.005446
+NIR2	075%	Opening	0.005398
+NIR2	090%	Erosion	0.005383
+NIR2	Average	Erosion	0.005233
+VV	100%	Opening	0.005159
+TC Green	050%	Opening	0.00506
+VV	100%	Closing	0.005044
+VV	000%	Closing	0.004993
+NIR	Average	Opening	0.004884
+RE3	075%	Opening	0.004871
+NIR2	010%	Opening	0.004866
+NIR2	050%	Erosion	0.004842
+VV	Average	Closing	0.004751
+VV	075%	Dilation	0.004743
+NIR	100%	Opening	0.004738
+TC Green	025%	Opening	0.004705
+VV	Average	Opening	0.004696
+VV	010%	Dilation	0.004659
+NIR2	050%	Opening	0.004634
+RE3	050%	Erosion	0.004629
+NDVI	Average	Opening	0.004592
+RE2	000%	Opening	0.004566
+VH	025%	Closing	0.004427
+NIR2	090%	Opening	0.004343
+NIR	025%	Opening	0.004325
+NIR2	100%	Erosion	0.00432
+RE3	Average	Opening	0.004276
+VH	025%	Dilation	0.004274
+RE3	090%	Opening	0.004273
+NIR2	075%	Erosion	0.00426
+TC Green	010%	Opening	0.004218
+SWIR1	075%	Erosion	0.004001
+NIR2	010%	Erosion	0.003994
+NDVI	000%	Opening	0.00395
+NIR	Average	Erosion	0.003941
+NIR	010%	Opening	0.003913
+RE2	050%	Erosion	0.003815
+RE2	Average	Erosion	0.003752
+NIR2	Average	Opening	0.00375
+TC Green	Average	Opening	0.003738
+NIR	100%	Erosion	0.003737
+NDVI	010%	Opening	0.003725
+VH	010%	Dilation	0.003677
+NIR	050%	Erosion	0.00362
+VH	Kurtosis	Opening	0.003618
+VH	010%	Closing	0.003559
+NIR	050%	Opening	0.00349
+VV	025%	Opening	0.003451
+NDVI	050%	Opening	0.003375
+VH	090%	Dilation	0.003367
+Blue	Average	Closing	0.00334
+RE3	090%	Erosion	0.003323
+VH	075%	Opening	0.003277
+NIR	025%	Erosion	0.003271
+NIR2	025%	Opening	0.003266
+NIR2	100%	Opening	0.003217
+TC Green	075%	Erosion	0.003214
+NIR	090%	Opening	0.003184
+TC Bright	100%	Erosion	0.003146
+VV	075%	Opening	0.003117
+VV	000%	Dilation	0.0031
+VV	090%	Closing	0.003094
+TC Bright	050%	Erosion	0.003082
+SWIR2	025%	Erosion	0.003072
+RED	010%	Closing	0.003054
+TC Green	100%	Opening	0.003034
+NIR2	000%	Opening	0.003018
+RE3	100%	Erosion	0.002983
+RE3	Average	Erosion	0.00297
+VH	100%	Opening	0.002951
+TC Bright	075%	Erosion	0.002849
+TC Bright	Average	Erosion	0.002829
+VV	090%	Dilation	0.002825
+VV	Average	Dilation	0.002805
+TC Bright	090%	Erosion	0.002805
+NIR	075%	Erosion	0.002803
+TC Green	010%	Closing	0.002775
+VV	100%	Erosion	0.002774
+VH	Kurtosis	Erosion	0.002753
+TC Bright	050%	Opening	0.002715
+NDVI	000%	Erosion	0.002715
+TC Green	050%	Erosion	0.002705
+Blue	010%	Closing	0.002692
+TC Green	075%	Opening	0.002627
+TC Green	090%	Opening	0.002605
+NDVI	Range	Closing	0.002578
+RE3	025%	Erosion	0.00257
+SWIR1	050%	Erosion	0.002567
+VH	IQR	Closing	0.002548
+RED	000%	Closing	0.002528
+RE3	075%	Erosion	0.002522
+NIR	000%	Opening	0.00251
+TC Green	010%	Erosion	0.002454
+VV	050%	Opening	0.002424
+RE2	090%	Erosion	0.002421
+RE3	025%	Opening	0.002351
+NDBI	050%	Closing	0.002279
+VH	000%	Closing	0.002277
+RE3	100%	Opening	0.002263
+RE1	Average	Erosion	0.00223
+Blue	000%	Gradient	0.002208
+RE3	010%	Erosion	0.002202
+RE2	075%	Opening	0.002196
+RE2	050%	Opening	0.002182
+NDVI	025%	Opening	0.002177
+RE2	090%	Opening	0.002171
+SWIR2	050%	Erosion	0.002134
+NIR	000%	Erosion	0.002134
+RE2	Average	Opening	0.002133
+TC Bright	075%	Opening	0.00213
+NIR2	100%	Blackhat	0.002094
+VH	Average	Opening	0.002058
+VV	050%	Dilation	0.002058
+TC Green	025%	Erosion	0.002051
+RE2	100%	Erosion	0.00205
+RE2	010%	Erosion	0.002043
+NIR2	025%	Erosion	0.002039
+NDBI	100%	Closing	0.002032
+VV	Average	Erosion	0.001995
+RE2	075%	Erosion	0.00199
+Green	000%	Gradient	0.00199
+NDVI	075%	Opening	0.001954
+NDVI	090%	Erosion	0.001858
+NDBI	010%	Closing	0.001834
+RE3	000%	Opening	0.001809
+TC Green	Average	Erosion	0.001805
+VH	100%	Erosion	0.001805
+VV	Kurtosis	Opening	0.001775
+VV	010%	Opening	0.001774
+TC Bright	025%	Erosion	0.001773
+RED	075%	Closing	0.001768
+Green	075%	Erosion	0.001748
+VH	050%	Opening	0.001738
+TC Bright	100%	Opening	0.001733
+NDBI	Range	Closing	0.001717
+Blue	000%	Dilation	0.001706
+RE3	IQR	Opening	0.001702
+NDBI	075%	Closing	0.001699
+TC Green	000%	Closing	0.001673
+RE1	050%	Erosion	0.001658
+RE1	075%	Erosion	0.001653
+NDBI	050%	Dilation	0.001642
+VH	Std. dev.	Gradient	0.001642
+NDVI	100%	Erosion	0.001639
+TC Green	000%	Erosion	0.001638
+NDBI	090%	Closing	0.001637
+NDBI	Average	Closing	0.001634
+NIR2	Std. dev.	Blackhat	0.001612
+RE2	100%	Opening	0.001604
+SWIR1	025%	Erosion	0.001595
+VH	100%	Dilation	0.001584
+VV	090%	Erosion	0.001571
+NDBI	090%	Opening	0.001547
+RE2	025%	Erosion	0.001541
+TC Green	075%	Closing	0.001535
+NDBI	075%	Opening	0.001532
+NIR	090%	Erosion	0.001522
+RE3	050%	Opening	0.001518
+NDBI	000%	Closing	0.001503
+SWIR2	010%	Erosion	0.001501
+NDVI	050%	Erosion	0.001499
+NDVI	100%	Opening	0.001496
+Green	Average	Erosion	0.00149
+NDVI	010%	Closing	0.001472
+NDVI	090%	Opening	0.001469
+NIR	010%	Erosion	0.001468
+RED	000%	Gradient	0.001455
+RE3	010%	Opening	0.001454
+SWIR2	100%	Erosion	0.001453
+NDBI	Average	Dilation	0.001442
+Green	010%	Dilation	0.001433
+NIR2	090%	Gradient	0.001425
+NDVI	025%	Erosion	0.001413
+Green	010%	Gradient	0.001407
+VV	075%	Erosion	0.001406
+NDVI	090%	Closing	0.001387
+Blue	025%	Closing	0.00138
+NIR	Std. dev.	Dilation	0.001368
+SWIR1	090%	Erosion	0.001363
+VH	090%	Opening	0.001358
+TC Green	100%	Erosion	0.001341
+NDVI	Average	Erosion	0.001334
+RE2	Range	Opening	0.001298
+Green	025%	Dilation	0.001296
+RE2	025%	Opening	0.001275
+Blue	010%	Dilation	0.001273
+VV	025%	Erosion	0.001255
+Green	050%	Erosion	0.001253
+NDBI	000%	Dilation	0.001252
+TC Green	075%	Blackhat	0.001251
+RED	050%	Gradient	0.001248
+mNDWI	Average	Gradient	0.001242
+TC Bright	090%	Opening	0.00124
+VH	000%	Dilation	0.001234
+NDVI	IQR	Blackhat	0.001226
+VV	Kurtosis	Erosion	0.001223
+SWIR2	025%	Closing	0.001218
+SWIR1	100%	Opening	0.001215
+SWIR1	Average	Opening	0.001192
+NDVI	Std. dev.	Closing	0.001191
+NDBI	090%	Dilation	0.001178
+Blue	010%	Gradient	0.001178
+RED	010%	Gradient	0.00117
+mNDWI	075%	Gradient	0.001163
+SWIR2	050%	Opening	0.001161
+RED	075%	Erosion	0.001157
+VH	075%	Gradient	0.001156
+mNDWI	050%	Gradient	0.001154
+RE3	000%	Erosion	0.001147
+VH	IQR	Dilation	0.00114
+NDVI	090%	Gradient	0.001139
+NDBI	100%	Opening	0.001136
+VV	075%	Gradient	0.001127
+RED	025%	Gradient	0.001127
+TC Green	025%	Closing	0.001121
+NIR2	IQR	Blackhat	0.001119
+mNDWI	025%	Gradient	0.001106
+VV	000%	Opening	0.001101
+VH	050%	Tophat	0.001088
+RED	090%	Erosion	0.001084
+TC Green	050%	Closing	0.001081
+NDVI	075%	Erosion	0.001076
+mNDWI	000%	Gradient	0.001072
+RE3	Std. dev.	Blackhat	0.001065
+Blue	025%	Dilation	0.001055
+Green	010%	Closing	0.001055
+RE1	100%	Erosion	0.001055
+NDVI	000%	Closing	0.001044
+Blue	Average	Gradient	0.001043
+NIR2	000%	Erosion	0.00104
+VH	000%	Opening	0.001038
+Green	025%	Closing	0.001022
+Green	000%	Closing	0.001012
+mNDWI	Range	Closing	0.001012
+Green	Average	Opening	0.001012
+NDVI	000%	Dilation	0.001009
+RE1	090%	Opening	0.001005
+NIR2	090%	Blackhat	0.001004
+TC Green	090%	Blackhat	0.001004
+NDBI	075%	Erosion	0.000997
+NIR2	IQR	Erosion	0.000996
+VV	025%	Gradient	0.000993
+mNDWI	025%	Dilation	0.000993
+NDBI	010%	Opening	0.00099
+NDBI	090%	Erosion	0.000986
+SWIR1	090%	Opening	0.000985
+VH	010%	Gradient	0.000984
+Blue	000%	Closing	0.000967
+NIR	Average	Closing	0.000963
+VH	025%	Opening	0.000959
+RE2	Range	Erosion	0.000958
+Green	100%	Erosion	0.000952
+SWIR2	Average	Erosion	0.000946
+RE3	090%	Closing	0.000942
+NDVI	075%	Gradient	0.000936
+Blue	025%	Opening	0.000933
+NIR	010%	Closing	0.000933
+VV	050%	Erosion	0.000932
+SWIR2	090%	Erosion	0.000927
+Green	090%	Closing	0.000919
+TC Wet	100%	Opening	0.000904
+RED	Skewness	Gradient	0.000902
+RED	050%	Closing	0.000896
+VV	100%	Dilation	0.000892
+RE1	025%	Opening	0.000888
+VH	Std. dev.	Closing	0.000884
+RED	010%	Tophat	0.000884
+TC Bright	025%	Opening	0.000882
+RED	025%	Erosion	0.000881
+Green	025%	Gradient	0.000879
+SWIR1	010%	Closing	0.000876
+TC Green	Std. dev.	Closing	0.000876
+mNDWI	Average	Closing	0.000875
+mNDWI	075%	Closing	0.00087
+RE2	000%	Erosion	0.000866
+NDVI	025%	Closing	0.000865
+NIR2	Range	Opening	0.000865
+mNDWI	Std. dev.	Opening	0.000861
+SWIR1	Average	Erosion	0.000858
+NIR	Std. dev.	Gradient	0.000857
+Blue	090%	Closing	0.000851
+NDVI	000%	Gradient	0.000838
+NDBI	025%	Closing	0.000838
+RE1	090%	Erosion	0.000836
+NDVI	Std. dev.	Dilation	0.000832
+Blue	010%	Tophat	0.000831
+RED	Average	Erosion	0.000825
+VH	010%	Opening	0.000825
+Green	090%	Erosion	0.000823
+Green	090%	Opening	0.000823
+VV	Average	Tophat	0.000821
+RE3	075%	Gradient	0.000816
+RE1	025%	Erosion	0.00081
+Green	Kurtosis	Gradient	0.00081
+SWIR2	010%	Closing	0.000809
+TC Green	Average	Blackhat	0.000805
+RE1	Skewness	Closing	0.000799
+VV	050%	Gradient	0.000799
+Green	075%	Gradient	0.000794
+SWIR1	025%	Closing	0.000786
+RED	Average	Gradient	0.000764
+TC Green	Range	Dilation	0.000762
+VV	000%	Erosion	0.000759
+Blue	025%	Gradient	0.000759
+NDVI	050%	Blackhat	0.00075
+TC Green	090%	Closing	0.000746
+NIR	050%	Gradient	0.00074
+NIR2	050%	Blackhat	0.000739
+Green	090%	Gradient	0.000737
+mNDWI	050%	Closing	0.000736
+NDVI	010%	Dilation	0.000735
+VV	010%	Gradient	0.000734
+VV	025%	Tophat	0.00073
+NIR	IQR	Gradient	0.000727
+NDVI	010%	Erosion	0.000724
+Green	050%	Closing	0.000724
+RED	100%	Closing	0.00072
+VH	Average	Tophat	0.00072
+NIR	025%	Closing	0.000719
+TC Bright	010%	Erosion	0.000715
+RE2	IQR	Gradient	0.000714
+Green	050%	Opening	0.00071
+NDBI	010%	Dilation	0.000708
+SWIR1	IQR	Gradient	0.000707
+SWIR1	100%	Erosion	0.000705
+NDBI	100%	Erosion	0.000705
+NDVI	090%	Blackhat	0.000702
+NIR2	010%	Closing	0.000699
+TC Green	100%	Closing	0.000697
+Blue	Skewness	Gradient	0.000696
+SWIR1	000%	Erosion	0.000694
+RE2	090%	Blackhat	0.000691
+mNDWI	000%	Closing	0.000685
+NDBI	025%	Opening	0.000684
+NDBI	IQR	Closing	0.000684
+VH	075%	Tophat	0.000684
+NIR	Std. dev.	Opening	0.000682
+NIR2	075%	Blackhat	0.000679
+SWIR1	010%	Erosion	0.000677
+Blue	050%	Gradient	0.000677
+RED	075%	Opening	0.000676
+mNDWI	Std. dev.	Gradient	0.00067
+SWIR1	Skewness	Closing	0.000667
+Blue	025%	Tophat	0.000661
+RE3	075%	Closing	0.000661
+NIR	090%	Blackhat	0.000658
+SWIR2	075%	Opening	0.000656
+TC Green	Std. dev.	Blackhat	0.000653
+RE3	100%	Closing	0.000652
+RED	IQR	Opening	0.000651
+RED	000%	Dilation	0.000651
+RED	050%	Erosion	0.000649
+VH	025%	Gradient	0.000649
+TC Green	000%	Dilation	0.000649
+VH	075%	Erosion	0.000648
+RED	Range	Closing	0.000642
+NDVI	Range	Blackhat	0.000642
+NIR	Std. dev.	Erosion	0.00064
+VH	025%	Erosion	0.000638
+VH	000%	Erosion	0.000636
+Green	Average	Closing	0.000636
+Blue	Kurtosis	Gradient	0.000636
+SWIR2	000%	Closing	0.000635
+VH	010%	Erosion	0.000627
+NDBI	Std. dev.	Dilation	0.000617
+NDVI	025%	Gradient	0.000616
+RED	Average	Opening	0.000613
+Blue	050%	Closing	0.000612
+RED	090%	Gradient	0.000611
+Blue	075%	Gradient	0.00061
+RE3	Range	Closing	0.000609
+RE2	075%	Gradient	0.000608
+NDBI	075%	Dilation	0.000608
+TC Green	090%	Erosion	0.000607
+TC Green	Range	Opening	0.000604
+VV	010%	Erosion	0.000604
+NDBI	Std. dev.	Blackhat	0.000602
+RE3	IQR	Dilation	0.000602
+mNDWI	000%	Dilation	0.000598
+TC Bright	010%	Closing	0.000598
+mNDWI	Range	Dilation	0.000596
+SWIR2	100%	Opening	0.000595
+Blue	Average	Dilation	0.000595
+NDVI	IQR	Closing	0.000591
+VH	090%	Erosion	0.00059
+RE1	Average	Dilation	0.000588
+mNDWI	090%	Opening	0.000584
+SWIR1	075%	Opening	0.000583
+NDVI	010%	Gradient	0.000583
+TC Green	Range	Blackhat	0.000582
+NDBI	Std. dev.	Erosion	0.000581
+RE3	Range	Opening	0.000581
+RE2	Std. dev.	Blackhat	0.00058
+mNDWI	Range	Gradient	0.00058
+RE3	025%	Closing	0.000576
+NDBI	025%	Dilation	0.000575
+NIR	100%	Closing	0.000575
+RE1	050%	Opening	0.000574
+TC Bright	000%	Closing	0.000571
+TC Green	IQR	Closing	0.000567
+NIR	IQR	Dilation	0.000567
+NDVI	075%	Blackhat	0.000565
+TC Green	Average	Closing	0.000564
+TC Bright	IQR	Opening	0.000563
+NIR	075%	Closing	0.000562
+NIR2	075%	Gradient	0.000561
+NIR	090%	Closing	0.000559
+Green	025%	Erosion	0.000559
+RE2	Std. dev.	Erosion	0.000556
+RE3	090%	Blackhat	0.000551
+Blue	Skewness	Opening	0.000547
+TC Bright	000%	Gradient	0.000545
+RE3	000%	Closing	0.000543
+NIR2	Range	Blackhat	0.000543
+SWIR2	000%	Erosion	0.00054
+NDBI	Range	Dilation	0.00054
+RE2	Average	Gradient	0.000536
+NDBI	Range	Opening	0.000535
+VH	Range	Erosion	0.000535
+NDVI	Std. dev.	Opening	0.000531
+RE2	Std. dev.	Opening	0.00053
+VH	Range	Closing	0.00053
+NIR2	IQR	Gradient	0.000526
+NDVI	075%	Closing	0.000525
+RE2	000%	Gradient	0.000525
+VH	090%	Tophat	0.000524
+TC Green	IQR	Opening	0.000523
+RED	Average	Closing	0.000522
+Green	075%	Opening	0.000516
+RE1	000%	Closing	0.000516
+VV	075%	Tophat	0.000512
+Blue	Range	Opening	0.000511
+NIR	Range	Blackhat	0.000506
+TC Green	100%	Gradient	0.000502
+NIR2	Std. dev.	Gradient	0.000502
+NIR	075%	Blackhat	0.000501
+NDVI	Kurtosis	Gradient	5e-04
+mNDWI	090%	Closing	0.000499
+NIR2	090%	Closing	0.000498
+RE3	075%	Blackhat	0.000497
+RE3	050%	Blackhat	0.000496
+TC Green	010%	Dilation	0.000496
+TC Bright	Std. dev.	Closing	0.000493
+mNDWI	010%	Gradient	0.000488
+TC Bright	IQR	Closing	0.000488
+NIR2	IQR	Opening	0.000487
+NIR2	Range	Closing	0.000485
+NIR	IQR	Blackhat	0.000484
+RED	Skewness	Opening	0.000483
+TC Green	IQR	Blackhat	0.000482
+RE3	025%	Gradient	0.000481
+NDBI	000%	Opening	0.000481
+RE1	000%	Gradient	0.000479
+NDBI	Skewness	Dilation	0.000479
+RE3	Std. dev.	Opening	0.000478
+Green	Average	Gradient	0.000471
+TC Wet	075%	Erosion	0.000471
+NIR	IQR	Closing	0.000469
+VH	IQR	Gradient	0.000468
+RE3	050%	Closing	0.000468
+NIR2	075%	Closing	0.000466
+NIR2	050%	Gradient	0.000466
+NIR	050%	Closing	0.000466
+RE3	Average	Closing	0.000463
+RED	100%	Erosion	0.000462
+RE3	Skewness	Opening	0.00046
+VV	IQR	Dilation	0.00046
+TC Bright	IQR	Erosion	0.000459
+NIR	100%	Blackhat	0.000459
+RE1	100%	Opening	0.000459
+NDBI	Std. dev.	Closing	0.000458
+TC Bright	Std. dev.	Opening	0.000455
+NDVI	025%	Blackhat	0.00045
+NDVI	Range	Dilation	0.000449
+RED	025%	Closing	0.000448
+TC Bright	010%	Opening	0.000447
+Blue	100%	Erosion	0.000446
+TC Wet	050%	Closing	0.000446
+Green	000%	Opening	0.000446
+Blue	090%	Opening	0.000443
+NDVI	050%	Gradient	0.000439
+Green	000%	Dilation	0.000438
+NDVI	Average	Gradient	0.000438
+NDVI	050%	Closing	0.000437
+RE3	Range	Erosion	0.000436
+VV	IQR	Gradient	0.000435
+NDVI	100%	Gradient	0.000434
+NDBI	010%	Erosion	0.000434
+VH	050%	Gradient	0.000433
+RE3	010%	Closing	0.000433
+RE2	IQR	Blackhat	0.000433
+NDBI	Std. dev.	Opening	0.000431
+mNDWI	010%	Closing	0.000429
+NDVI	Kurtosis	Dilation	0.000428
+RE2	075%	Blackhat	0.000423
+NDVI	Skewness	Closing	0.000422
+NIR2	010%	Dilation	0.000422
+RE3	Range	Blackhat	0.000418
+RE3	Skewness	Closing	0.000416
+NDVI	Range	Opening	0.000416
+NDBI	050%	Opening	0.000415
+RE3	Std. dev.	Closing	0.000414
+RE1	010%	Dilation	0.000413
+mNDWI	025%	Closing	0.000411
+RED	100%	Opening	0.000411
+Green	Skewness	Opening	0.000409
+TC Bright	100%	Gradient	0.000407
+NIR	Range	Dilation	0.000406
+VH	IQR	Opening	0.000406
+RE3	100%	Blackhat	0.000406
+RED	025%	Dilation	0.000406
+TC Green	050%	Blackhat	0.000405
+RED	090%	Closing	0.000405
+NIR	Std. dev.	Blackhat	0.000405
+NIR	IQR	Opening	0.000404
+Green	025%	Blackhat	0.000403
+NIR2	Average	Closing	0.000403
+mNDWI	050%	Tophat	0.000403
+RE1	100%	Closing	0.000402
+RE2	Average	Blackhat	0.000401
+TC Bright	075%	Dilation	0.000401
+Green	050%	Gradient	4e-04
+RE3	Std. dev.	Dilation	4e-04
+NDVI	Skewness	Dilation	0.000399
+RED	025%	Tophat	0.000398
+NDBI	100%	Dilation	0.000396
+NDVI	Kurtosis	Opening	0.000396
+RE3	Range	Dilation	0.000395
+RED	050%	Tophat	0.000394
+mNDWI	Kurtosis	Opening	0.000391
+NIR	Range	Opening	0.000389
+TC Wet	000%	Closing	0.000388
+mNDWI	000%	Blackhat	0.000387
+NIR2	IQR	Dilation	0.000386
+SWIR2	Average	Closing	0.000382
+RE2	050%	Gradient	0.00038
+VH	Std. dev.	Erosion	0.00038
+VV	IQR	Closing	0.000378
+mNDWI	100%	Gradient	0.000378
+RE1	000%	Dilation	0.000377
+NDBI	010%	Tophat	0.000377
+RE1	000%	Erosion	0.000377
+SWIR1	IQR	Closing	0.000376
+Blue	Skewness	Erosion	0.000375
+mNDWI	IQR	Dilation	0.000371
+NDVI	100%	Closing	0.00037
+Green	075%	Closing	0.000369
+SWIR2	050%	Closing	0.000369
+mNDWI	010%	Dilation	0.000367
+TC Wet	010%	Dilation	0.000364
+TC Wet	090%	Opening	0.000364
+VV	Std. dev.	Gradient	0.000364
+RED	090%	Opening	0.000363
+TC Wet	010%	Closing	0.000363
+VV	010%	Tophat	0.000363
+VH	000%	Tophat	0.000362
+RED	Kurtosis	Closing	0.000361
+TC Green	025%	Gradient	0.00036
+Green	Average	Dilation	0.00036
+Green	Kurtosis	Dilation	0.000359
+VV	050%	Tophat	0.000358
+RE2	IQR	Closing	0.000358
+RED	025%	Opening	0.000358
+RE1	025%	Closing	0.000357
+mNDWI	100%	Closing	0.000357
+TC Wet	Kurtosis	Opening	0.000357
+mNDWI	Kurtosis	Erosion	0.000357
+NDBI	Range	Blackhat	0.000356
+RE3	IQR	Closing	0.000355
+SWIR1	075%	Closing	0.000355
+TC Bright	090%	Tophat	0.000355
+mNDWI	050%	Dilation	0.000353
+Green	100%	Gradient	0.00035
+NIR	Average	Blackhat	0.00035
+RED	Skewness	Erosion	0.000347
+RE3	IQR	Blackhat	0.000346
+Blue	075%	Dilation	0.000344
+NDBI	Skewness	Tophat	0.000343
+SWIR1	100%	Blackhat	0.000342
+mNDWI	Skewness	Gradient	0.00034
+NDVI	100%	Blackhat	0.00034
+TC Green	Range	Closing	0.000339
+Blue	IQR	Opening	0.000338
+mNDWI	IQR	Opening	0.000338
+RE3	075%	Dilation	0.000336
+Blue	Average	Erosion	0.000335
+NDBI	050%	Erosion	0.000334
+NDBI	Std. dev.	Gradient	0.000333
+mNDWI	075%	Dilation	0.000332
+Green	010%	Tophat	0.000332
+SWIR2	Range	Opening	0.000331
+TC Wet	075%	Opening	0.00033
+SWIR1	Range	Opening	0.00033
+Green	010%	Opening	0.00033
+NIR	100%	Gradient	0.000329
+NDBI	Kurtosis	Opening	0.000329
+RE2	Std. dev.	Gradient	0.000328
+RE2	100%	Blackhat	0.000327
+NDBI	Average	Opening	0.000327
+Blue	Kurtosis	Dilation	0.000326
+Blue	010%	Erosion	0.000325
+Blue	IQR	Erosion	0.000324
+NIR	Std. dev.	Closing	0.000324
+RED	010%	Dilation	0.000323
+VV	090%	Tophat	0.000323
+Blue	075%	Closing	0.000321
+RED	075%	Dilation	0.000321
+RE2	090%	Closing	0.00032
+RE1	010%	Opening	0.00032
+NIR2	100%	Gradient	0.000319
+RED	050%	Dilation	0.000319
+TC Wet	Average	Closing	0.000319
+TC Wet	Skewness	Closing	0.000319
+Green	Kurtosis	Closing	0.000319
+mNDWI	010%	Tophat	0.000318
+TC Wet	025%	Dilation	0.000317
+mNDWI	Skewness	Opening	0.000315
+NDVI	IQR	Dilation	0.000314
+TC Green	100%	Blackhat	0.000313
+VH	Average	Erosion	0.000313
+Green	010%	Erosion	0.000312
+TC Bright	Kurtosis	Closing	0.000312
+RED	Kurtosis	Gradient	0.000312
+TC Green	000%	Gradient	0.000311
+VV	Average	Gradient	0.000311
+NDBI	Range	Erosion	0.000311
+VH	IQR	Erosion	0.00031
+mNDWI	025%	Erosion	0.00031
+mNDWI	Kurtosis	Closing	0.000308
+SWIR2	Std. dev.	Blackhat	0.000308
+mNDWI	Std. dev.	Dilation	0.000307
+SWIR2	000%	Dilation	0.000307
+SWIR1	Std. dev.	Erosion	0.000306
+Green	025%	Opening	0.000305
+RE2	Skewness	Erosion	0.000304
+TC Bright	010%	Gradient	0.000304
+mNDWI	Std. dev.	Blackhat	0.000303
+NIR	090%	Dilation	0.000303
+RE3	Average	Blackhat	0.000303
+NDVI	Std. dev.	Blackhat	0.000303
+TC Green	Std. dev.	Gradient	0.000303
+SWIR2	075%	Erosion	0.000301
+Blue	025%	Erosion	0.000301
+RE2	Range	Closing	0.000301
+NDBI	025%	Gradient	0.000301
+SWIR2	IQR	Blackhat	0.000299
+mNDWI	075%	Erosion	0.000298
+TC Bright	Average	Closing	0.000296
+TC Wet	025%	Tophat	0.000295
+SWIR1	010%	Opening	0.000295
+NIR2	Skewness	Erosion	0.000294
+RE2	000%	Closing	0.000294
+VH	Kurtosis	Gradient	0.000294
+NIR	000%	Dilation	0.000294
+RE1	010%	Erosion	0.000293
+TC Bright	IQR	Gradient	0.000293
+SWIR2	Average	Gradient	0.000292
+RE1	050%	Closing	0.000292
+mNDWI	010%	Opening	0.000291
+RE2	IQR	Dilation	0.000291
+TC Green	075%	Dilation	0.000291
+RE2	025%	Blackhat	0.000291
+NIR2	Range	Gradient	0.000291
+Blue	000%	Tophat	0.00029
+RED	090%	Tophat	0.000289
+NDVI	Std. dev.	Gradient	0.000288
+Blue	Skewness	Closing	0.000288
+RED	Range	Dilation	0.000288
+SWIR2	Kurtosis	Dilation	0.000286
+Green	075%	Dilation	0.000286
+NIR2	025%	Blackhat	0.000284
+SWIR1	Average	Blackhat	0.000284
+Green	025%	Tophat	0.000284
+SWIR2	075%	Closing	0.000283
+NIR2	Std. dev.	Opening	0.000282
+TC Green	025%	Dilation	0.000281
+NIR2	IQR	Closing	0.000281
+VV	Range	Erosion	0.00028
+Blue	050%	Tophat	0.000278
+NIR	050%	Blackhat	0.000276
+NDVI	Kurtosis	Closing	0.000276
+NDBI	IQR	Blackhat	0.000275
+RED	Std. dev.	Opening	0.000274
+SWIR2	Average	Dilation	0.000273
+NDVI	100%	Dilation	0.000271
+VV	090%	Gradient	0.000271
+RE3	Average	Dilation	0.000271
+NDBI	000%	Tophat	0.00027
+SWIR1	IQR	Tophat	0.000269
+SWIR1	Skewness	Dilation	0.000268
+RE2	IQR	Opening	0.000267
+VH	Kurtosis	Closing	0.000266
+TC Bright	Std. dev.	Erosion	0.000266
+Green	Skewness	Erosion	0.000266
+NDBI	Range	Gradient	0.000265
+SWIR1	000%	Opening	0.000265
+RE2	Kurtosis	Closing	0.000265
+NDVI	IQR	Opening	0.000264
+TC Green	IQR	Dilation	0.000263
+SWIR2	090%	Blackhat	0.000263
+TC Green	Range	Erosion	0.000262
+RE3	050%	Dilation	0.000262
+NDVI	Average	Dilation	0.000262
+NIR	000%	Closing	0.000261
+NIR	Skewness	Dilation	0.000261
+RE1	Std. dev.	Opening	0.000259
+Blue	100%	Dilation	0.000258
+VH	050%	Erosion	0.000258
+RE2	075%	Dilation	0.000257
+Blue	075%	Opening	0.000257
+RED	Range	Erosion	0.000256
+RE3	IQR	Gradient	0.000255
+NIR	025%	Gradient	0.000254
+SWIR2	IQR	Tophat	0.000254
+Blue	Kurtosis	Closing	0.000252
+NIR	Average	Dilation	0.000252
+VV	Std. dev.	Closing	0.000252
+TC Green	Std. dev.	Opening	0.00025
+Green	Skewness	Dilation	0.000249
+RED	Skewness	Closing	0.000249
+RED	000%	Opening	0.000248
+RED	075%	Gradient	0.000248
+RE2	010%	Gradient	0.000248
+RE3	000%	Dilation	0.000247
+TC Bright	Average	Opening	0.000247
+VV	Std. dev.	Opening	0.000246
+SWIR2	090%	Opening	0.000246
+NIR	075%	Dilation	0.000245
+NDBI	IQR	Gradient	0.000245
+Green	050%	Dilation	0.000245
+RE1	Skewness	Gradient	0.000244
+RE2	Range	Gradient	0.000244
+VH	010%	Tophat	0.000244
+TC Wet	050%	Dilation	0.000244
+NIR2	000%	Gradient	0.000243
+NDBI	Skewness	Closing	0.000243
+NDBI	IQR	Dilation	0.000241
+NDBI	025%	Erosion	0.000241
+RE1	010%	Closing	0.000241
+RED	Average	Dilation	0.00024
+SWIR1	IQR	Opening	0.00024
+RED	100%	Dilation	0.00024
+NIR2	Range	Dilation	0.000237
+RE3	Std. dev.	Gradient	0.000237
+TC Wet	075%	Gradient	0.000237
+NIR2	Average	Dilation	0.000236
+SWIR1	Std. dev.	Opening	0.000236
+SWIR2	050%	Dilation	0.000236
+NIR	Skewness	Closing	0.000236
+TC Green	Kurtosis	Closing	0.000235
+RE1	Range	Dilation	0.000235
+TC Green	Skewness	Opening	0.000234
+SWIR1	Kurtosis	Gradient	0.000233
+TC Wet	Range	Opening	0.000233
+RE2	050%	Blackhat	0.000232
+TC Bright	050%	Closing	0.000228
+Green	Range	Opening	0.000228
+NIR2	050%	Closing	0.000228
+TC Wet	075%	Dilation	0.000227
+TC Wet	Kurtosis	Tophat	0.000227
+RED	010%	Erosion	0.000226
+SWIR1	Std. dev.	Closing	0.000225
+TC Bright	Range	Closing	0.000225
+RE1	075%	Opening	0.000224
+NIR	Average	Gradient	0.000224
+RE2	IQR	Erosion	0.000224
+TC Bright	Average	Dilation	0.000223
+mNDWI	025%	Tophat	0.000223
+NIR2	Std. dev.	Erosion	0.000222
+TC Green	Average	Dilation	0.000221
+VH	Range	Opening	0.000221
+mNDWI	050%	Erosion	0.000219
+RE2	Std. dev.	Closing	0.000219
+Green	IQR	Opening	0.000219
+TC Bright	Average	Tophat	0.000218
+SWIR1	100%	Gradient	0.000217
+TC Green	090%	Dilation	0.000216
+RE3	IQR	Erosion	0.000216
+SWIR1	IQR	Dilation	0.000216
+Green	000%	Blackhat	0.000216
+TC Bright	Skewness	Gradient	0.000215
+RE1	IQR	Blackhat	0.000215
+VH	Skewness	Dilation	0.000215
+TC Green	Skewness	Closing	0.000215
+RE2	075%	Closing	0.000214
+SWIR2	Skewness	Closing	0.000214
+TC Bright	050%	Gradient	0.000213
+RED	090%	Dilation	0.000213
+TC Bright	000%	Opening	0.000212
+RE1	025%	Blackhat	0.000211
+NDVI	IQR	Gradient	0.000211
+SWIR2	Range	Erosion	0.000211
+NDVI	Std. dev.	Erosion	0.000211
+RED	075%	Tophat	0.000211
+Blue	090%	Gradient	0.00021
+SWIR2	Std. dev.	Erosion	0.00021
+SWIR1	000%	Blackhat	0.00021
+mNDWI	100%	Erosion	0.00021
+NIR	Range	Closing	0.000208
+SWIR2	025%	Dilation	0.000208
+TC Bright	100%	Blackhat	0.000208
+NDBI	Kurtosis	Gradient	0.000207
+TC Green	Skewness	Dilation	0.000207
+NDVI	Skewness	Gradient	0.000206
+RE2	Skewness	Closing	0.000206
+NIR2	100%	Dilation	0.000206
+VH	Std. dev.	Opening	0.000205
+RE2	050%	Dilation	0.000205
+TC Wet	IQR	Opening	0.000204
+NIR2	Skewness	Opening	0.000204
+Blue	100%	Blackhat	0.000203
+SWIR2	Std. dev.	Closing	0.000203
+TC Green	Average	Gradient	0.000203
+RED	010%	Opening	0.000203
+VV	000%	Tophat	0.000203
+SWIR1	Range	Gradient	0.000201
+mNDWI	025%	Opening	0.000201
+mNDWI	090%	Gradient	0.000201
+SWIR2	Kurtosis	Opening	2e-04
+SWIR2	100%	Blackhat	2e-04
+TC Wet	050%	Opening	2e-04
+NIR2	Average	Blackhat	2e-04
+TC Bright	090%	Gradient	0.000199
+SWIR1	100%	Closing	0.000199
+RE1	050%	Dilation	0.000198
+RE1	090%	Gradient	0.000198
+SWIR1	090%	Closing	0.000198
+RE2	Range	Blackhat	0.000197
+NDBI	Kurtosis	Closing	0.000196
+NDVI	090%	Dilation	0.000196
+RED	Average	Tophat	0.000196
+RE1	Kurtosis	Gradient	0.000196
+NDBI	050%	Tophat	0.000195
+TC Wet	IQR	Closing	0.000195
+RE2	100%	Gradient	0.000195
+RED	Kurtosis	Dilation	0.000194
+NDVI	Kurtosis	Erosion	0.000193
+Green	000%	Erosion	0.000192
+Blue	Std. dev.	Erosion	0.000192
+NDBI	025%	Tophat	0.000191
+NIR2	050%	Dilation	0.000191
+NDBI	IQR	Opening	0.000191
+Blue	050%	Erosion	0.000191
+SWIR1	Average	Dilation	0.000191
+NDBI	Average	Tophat	0.000191
+SWIR1	050%	Opening	0.00019
+NDVI	025%	Dilation	0.00019
+SWIR1	Kurtosis	Opening	0.00019
+TC Bright	Range	Dilation	0.000188
+NDVI	Average	Blackhat	0.000187
+RE1	010%	Gradient	0.000187
+NIR2	Range	Erosion	0.000187
+NDBI	000%	Gradient	0.000187
+NIR2	000%	Dilation	0.000185
+RE1	050%	Blackhat	0.000184
+NDVI	Kurtosis	Blackhat	0.000184
+SWIR2	Kurtosis	Closing	0.000182
+TC Wet	100%	Closing	0.000182
+SWIR2	025%	Opening	0.000181
+mNDWI	090%	Tophat	0.000181
+SWIR1	025%	Opening	0.000181
+TC Wet	Std. dev.	Opening	0.000179
+RED	000%	Erosion	0.000178
+TC Green	Std. dev.	Dilation	0.000178
+RE1	Kurtosis	Blackhat	0.000177
+TC Green	050%	Dilation	0.000177
+TC Bright	000%	Tophat	0.000177
+RE1	025%	Dilation	0.000176
+TC Wet	Average	Dilation	0.000176
+RE2	Std. dev.	Dilation	0.000176
+Green	100%	Closing	0.000176
+VV	Range	Opening	0.000176
+Green	000%	Tophat	0.000176
+NDBI	000%	Erosion	0.000175
+Green	IQR	Gradient	0.000175
+RE3	Average	Tophat	0.000174
+NIR	IQR	Erosion	0.000174
+SWIR1	Range	Erosion	0.000174
+TC Wet	Range	Gradient	0.000173
+RE3	010%	Tophat	0.000173
+RE1	Range	Blackhat	0.000173
+SWIR1	050%	Closing	0.000172
+SWIR2	050%	Blackhat	0.000172
+TC Wet	000%	Opening	0.000172
+VV	IQR	Erosion	0.000172
+TC Wet	IQR	Dilation	0.000172
+RE1	Std. dev.	Erosion	0.000171
+TC Green	Kurtosis	Gradient	0.000171
+SWIR2	IQR	Dilation	0.000171
+NIR	Skewness	Opening	0.00017
+NDVI	050%	Dilation	0.00017
+SWIR2	100%	Closing	0.000169
+RE3	090%	Gradient	0.000169
+Blue	075%	Erosion	0.000169
+Green	Std. dev.	Erosion	0.000169
+NIR	025%	Blackhat	0.000169
+RE2	025%	Dilation	0.000168
+SWIR1	050%	Dilation	0.000168
+Blue	IQR	Gradient	0.000168
+NDBI	100%	Gradient	0.000167
+VH	Average	Blackhat	0.000167
+Blue	100%	Opening	0.000167
+RED	Std. dev.	Blackhat	0.000167
+Green	090%	Dilation	0.000167
+SWIR2	010%	Opening	0.000166
+Blue	050%	Dilation	0.000166
+mNDWI	Average	Opening	0.000165
+SWIR2	000%	Tophat	0.000165
+Blue	100%	Gradient	0.000165
+RE1	Std. dev.	Dilation	0.000165
+TC Green	075%	Gradient	0.000165
+RE1	IQR	Erosion	0.000165
+VH	Skewness	Closing	0.000164
+RED	000%	Tophat	0.000164
+TC Bright	IQR	Blackhat	0.000164
+RED	IQR	Blackhat	0.000163
+NIR	090%	Gradient	0.000163
+Blue	010%	Opening	0.000163
+SWIR2	090%	Gradient	0.000162
+TC Wet	050%	Blackhat	0.000161
+RE1	025%	Tophat	0.000161
+TC Green	IQR	Gradient	0.000161
+NDVI	Average	Closing	0.000161
+RED	Std. dev.	Closing	0.00016
+TC Bright	Std. dev.	Gradient	0.00016
+TC Green	Skewness	Blackhat	0.00016
+RED	Skewness	Dilation	0.00016
+SWIR1	000%	Closing	0.000159
+mNDWI	Average	Dilation	0.000157
+TC Green	Kurtosis	Dilation	0.000157
+RE3	100%	Gradient	0.000156
+TC Wet	Skewness	Blackhat	0.000156
+RED	Std. dev.	Erosion	0.000156
+VV	100%	Tophat	0.000156
+NIR	075%	Gradient	0.000154
+mNDWI	075%	Opening	0.000154
+RE1	Skewness	Erosion	0.000154
+RE3	Skewness	Tophat	0.000154
+NDVI	Range	Gradient	0.000154
+SWIR1	Range	Blackhat	0.000154
+mNDWI	IQR	Erosion	0.000154
+NIR2	Kurtosis	Gradient	0.000153
+RE3	090%	Dilation	0.000152
+VV	100%	Gradient	0.000152
+TC Wet	Average	Opening	0.000152
+Green	Kurtosis	Blackhat	0.000151
+VV	Range	Tophat	0.000151
+SWIR1	075%	Blackhat	0.000151
+mNDWI	090%	Dilation	0.00015
+RE3	Std. dev.	Erosion	0.000149
+Green	100%	Tophat	0.000149
+RE1	Skewness	Dilation	0.000149
+NIR2	Skewness	Dilation	0.000149
+RED	075%	Blackhat	0.000148
+SWIR2	075%	Dilation	0.000148
+RE1	Kurtosis	Closing	0.000148
+TC Bright	050%	Tophat	0.000146
+TC Green	010%	Blackhat	0.000146
+Green	Std. dev.	Blackhat	0.000146
+Green	075%	Blackhat	0.000145
+Blue	Skewness	Dilation	0.000145
+TC Wet	025%	Erosion	0.000145
+SWIR2	090%	Closing	0.000144
+VV	Std. dev.	Dilation	0.000144
+mNDWI	Average	Blackhat	0.000144
+TC Bright	Skewness	Closing	0.000144
+NIR	010%	Dilation	0.000144
+SWIR2	Kurtosis	Erosion	0.000144
+Green	Skewness	Closing	0.000143
+TC Bright	Average	Blackhat	0.000143
+VV	Std. dev.	Erosion	0.000143
+TC Wet	Std. dev.	Erosion	0.000143
+Blue	Average	Blackhat	0.000143
+RE2	010%	Dilation	0.000141
+TC Green	075%	Tophat	0.000141
+SWIR2	Skewness	Opening	0.000141
+SWIR2	090%	Tophat	0.00014
+mNDWI	IQR	Gradient	0.000139
+VH	IQR	Tophat	0.000138
+TC Bright	Skewness	Dilation	0.000138
+RE1	050%	Tophat	0.000137
+NDBI	075%	Gradient	0.000137
+Green	090%	Tophat	0.000137
+SWIR1	075%	Tophat	0.000137
+RE1	Average	Gradient	0.000137
+RE2	090%	Gradient	0.000136
+TC Wet	100%	Tophat	0.000136
+Blue	090%	Dilation	0.000136
+Green	IQR	Dilation	0.000135
+NIR	100%	Dilation	0.000135
+VH	090%	Blackhat	0.000135
+mNDWI	100%	Dilation	0.000134
+NIR2	Average	Gradient	0.000134
+TC Green	Kurtosis	Opening	0.000134
+Blue	050%	Opening	0.000133
+SWIR2	Kurtosis	Tophat	0.000133
+NIR2	025%	Dilation	0.000133
+mNDWI	Skewness	Erosion	0.000132
+SWIR1	Kurtosis	Tophat	0.000132
+TC Bright	010%	Blackhat	0.000132
+SWIR1	Std. dev.	Blackhat	0.000132
+RE3	Kurtosis	Closing	0.000132
+mNDWI	000%	Tophat	0.000132
+TC Wet	100%	Gradient	0.000132
+TC Green	090%	Gradient	0.000132
+Blue	Average	Opening	0.000131
+SWIR1	010%	Tophat	0.000131
+mNDWI	010%	Erosion	0.00013
+NIR2	Range	Tophat	0.000129
+TC Wet	Kurtosis	Blackhat	0.000129
+TC Bright	Kurtosis	Tophat	0.000128
+TC Wet	000%	Dilation	0.000128
+TC Green	000%	Tophat	0.000128
+TC Green	Range	Gradient	0.000127
+Green	050%	Tophat	0.000127
+Blue	Range	Closing	0.000127
+SWIR1	IQR	Erosion	0.000126
+TC Wet	090%	Dilation	0.000126
+mNDWI	IQR	Blackhat	0.000126
+Green	Std. dev.	Dilation	0.000126
+TC Bright	050%	Dilation	0.000126
+mNDWI	Skewness	Closing	0.000126
+mNDWI	Range	Opening	0.000126
+mNDWI	Std. dev.	Erosion	0.000125
+SWIR1	090%	Blackhat	0.000125
+NDBI	025%	Blackhat	0.000125
+VH	025%	Tophat	0.000125
+NIR2	000%	Closing	0.000124
+TC Wet	100%	Dilation	0.000124
+RED	IQR	Erosion	0.000124
+TC Wet	025%	Opening	0.000124
+TC Bright	000%	Dilation	0.000123
+RED	Kurtosis	Tophat	0.000123
+SWIR1	090%	Dilation	0.000123
+Blue	010%	Blackhat	0.000122
+RE1	IQR	Gradient	0.00012
+NDVI	000%	Blackhat	0.00012
+TC Bright	Kurtosis	Blackhat	0.00012
+SWIR1	Skewness	Gradient	0.00012
+TC Wet	010%	Erosion	0.000119
+SWIR2	000%	Opening	0.000119
+RE3	Range	Gradient	0.000118
+TC Green	010%	Gradient	0.000118
+TC Green	100%	Dilation	0.000118
+mNDWI	050%	Opening	0.000118
+TC Bright	090%	Closing	0.000117
+RED	100%	Tophat	0.000117
+RE3	100%	Dilation	0.000116
+TC Bright	Range	Opening	0.000116
+VH	100%	Blackhat	0.000115
+NIR2	Skewness	Blackhat	0.000115
+RED	050%	Blackhat	0.000115
+TC Wet	Range	Tophat	0.000115
+SWIR2	IQR	Gradient	0.000115
+NDBI	050%	Blackhat	0.000114
+mNDWI	Skewness	Blackhat	0.000114
+Blue	050%	Blackhat	0.000114
+TC Wet	100%	Erosion	0.000113
+SWIR1	Kurtosis	Blackhat	0.000113
+NDBI	Average	Erosion	0.000112
+NIR	010%	Blackhat	0.000111
+Green	010%	Blackhat	0.000109
+TC Green	050%	Gradient	0.000109
+RE1	Range	Gradient	0.000108
+TC Green	IQR	Erosion	0.000108
+RE1	Average	Closing	0.000107
+TC Wet	Average	Tophat	0.000107
+RE1	Average	Opening	0.000107
+NIR2	075%	Tophat	0.000107
+NDVI	IQR	Erosion	0.000107
+TC Bright	000%	Blackhat	0.000106
+TC Wet	Skewness	Opening	0.000106
+NIR2	IQR	Tophat	0.000106
+NDBI	Skewness	Erosion	0.000106
+NIR2	Kurtosis	Closing	0.000106
+Blue	Kurtosis	Blackhat	0.000106
+Green	100%	Opening	0.000106
+NIR2	100%	Closing	0.000105
+RE1	IQR	Dilation	0.000105
+SWIR1	Range	Closing	0.000104
+RE2	000%	Dilation	0.000104
+NDBI	Kurtosis	Blackhat	0.000103
+RED	Range	Tophat	0.000103
+NDBI	050%	Gradient	0.000102
+SWIR1	010%	Dilation	0.000102
+NIR2	Std. dev.	Tophat	0.000101
+RED	090%	Blackhat	0.000101
+VV	050%	Blackhat	1e-04
+RE1	Skewness	Tophat	1e-04
+NDBI	Skewness	Gradient	1e-04
+NDVI	010%	Blackhat	9.9e-05
+NIR2	000%	Blackhat	9.9e-05
+SWIR1	Kurtosis	Dilation	9.9e-05
+SWIR2	075%	Tophat	9.8e-05
+Blue	Kurtosis	Opening	9.8e-05
+TC Wet	Std. dev.	Closing	9.8e-05
+RE3	Kurtosis	Gradient	9.7e-05
+TC Wet	075%	Tophat	9.7e-05
+TC Bright	Range	Erosion	9.6e-05
+RE2	Skewness	Opening	9.6e-05
+RE1	090%	Closing	9.6e-05
+Blue	Average	Tophat	9.5e-05
+mNDWI	Average	Erosion	9.5e-05
+RE1	075%	Blackhat	9.4e-05
+Blue	100%	Closing	9.4e-05
+NDVI	010%	Tophat	9.4e-05
+RE2	025%	Closing	9.3e-05
+TC Bright	075%	Blackhat	9.3e-05
+Green	Range	Closing	9.3e-05
+Blue	Range	Erosion	9.2e-05
+SWIR1	Std. dev.	Gradient	9.2e-05
+VH	Std. dev.	Dilation	9.2e-05
+NIR	000%	Blackhat	9.2e-05
+TC Wet	000%	Blackhat	9.2e-05
+Blue	Range	Gradient	9.2e-05
+VH	010%	Blackhat	9.2e-05
+TC Wet	100%	Blackhat	9.1e-05
+TC Green	Skewness	Gradient	9.1e-05
+RED	Range	Gradient	9e-05
+Green	Std. dev.	Gradient	9e-05
+TC Wet	025%	Closing	9e-05
+TC Bright	010%	Tophat	9e-05
+TC Green	000%	Blackhat	9e-05
+TC Bright	Range	Blackhat	9e-05
+Green	Std. dev.	Opening	8.9e-05
+NIR2	100%	Tophat	8.9e-05
+RE1	100%	Blackhat	8.8e-05
+Blue	090%	Erosion	8.8e-05
+SWIR2	025%	Tophat	8.7e-05
+SWIR2	010%	Dilation	8.7e-05
+mNDWI	Range	Erosion	8.6e-05
+SWIR2	Std. dev.	Tophat	8.6e-05
+VV	Range	Gradient	8.6e-05
+RE2	Kurtosis	Blackhat	8.6e-05
+NDVI	075%	Dilation	8.6e-05
+SWIR1	075%	Dilation	8.6e-05
+RE2	Skewness	Gradient	8.6e-05
+Blue	075%	Blackhat	8.5e-05
+Blue	Std. dev.	Gradient	8.5e-05
+SWIR2	010%	Tophat	8.5e-05
+NDBI	Average	Gradient	8.5e-05
+RE1	090%	Tophat	8.5e-05
+TC Bright	Std. dev.	Tophat	8.5e-05
+Blue	IQR	Blackhat	8.4e-05
+mNDWI	Kurtosis	Tophat	8.4e-05
+RE1	IQR	Closing	8.3e-05
+RED	Std. dev.	Dilation	8.3e-05
+NIR	Kurtosis	Opening	8.3e-05
+NIR	Range	Tophat	8.2e-05
+SWIR2	IQR	Closing	8.2e-05
+RE2	Kurtosis	Tophat	8.2e-05
+TC Bright	025%	Blackhat	8.1e-05
+SWIR1	100%	Tophat	8.1e-05
+NIR2	Skewness	Gradient	8.1e-05
+TC Bright	Std. dev.	Dilation	8.1e-05
+VH	Range	Blackhat	8e-05
+NDBI	Kurtosis	Dilation	8e-05
+RE2	Skewness	Blackhat	8e-05
+RE2	010%	Closing	8e-05
+RED	Range	Opening	8e-05
+RE2	100%	Closing	8e-05
+TC Green	Std. dev.	Tophat	8e-05
+TC Wet	Skewness	Tophat	7.9e-05
+TC Wet	IQR	Gradient	7.9e-05
+TC Wet	090%	Closing	7.9e-05
+RED	050%	Opening	7.9e-05
+TC Bright	090%	Dilation	7.9e-05
+SWIR1	Kurtosis	Closing	7.9e-05
+NIR	000%	Gradient	7.8e-05
+VV	Skewness	Erosion	7.8e-05
+RE1	IQR	Tophat	7.8e-05
+RE2	090%	Dilation	7.7e-05
+VV	IQR	Opening	7.7e-05
+TC Green	Kurtosis	Erosion	7.7e-05
+Green	IQR	Blackhat	7.6e-05
+NDBI	Skewness	Opening	7.6e-05
+SWIR1	100%	Dilation	7.5e-05
+NDBI	Average	Blackhat	7.5e-05
+RE2	Skewness	Tophat	7.5e-05
+RE1	Std. dev.	Closing	7.5e-05
+TC Wet	Skewness	Erosion	7.5e-05
+RE3	Range	Tophat	7.5e-05
+RE3	Skewness	Gradient	7.5e-05
+SWIR1	Skewness	Tophat	7.4e-05
+Blue	Skewness	Blackhat	7.4e-05
+RE2	075%	Tophat	7.3e-05
+SWIR2	Average	Opening	7.3e-05
+TC Bright	075%	Tophat	7.3e-05
+RE2	Kurtosis	Dilation	7.2e-05
+VH	Range	Dilation	7.1e-05
+SWIR2	Range	Closing	7.1e-05
+NDVI	Range	Erosion	7e-05
+TC Bright	Std. dev.	Blackhat	7e-05
+RE2	Range	Dilation	7e-05
+RE3	025%	Blackhat	6.9e-05
+RE3	Kurtosis	Opening	6.9e-05
+TC Bright	100%	Closing	6.9e-05
+SWIR2	Skewness	Dilation	6.9e-05
+VV	Average	Blackhat	6.8e-05
+Green	Range	Gradient	6.8e-05
+RE2	Kurtosis	Erosion	6.8e-05
+Green	100%	Blackhat	6.7e-05
+NDBI	075%	Tophat	6.7e-05
+Blue	000%	Erosion	6.7e-05
+VV	010%	Blackhat	6.7e-05
+Blue	Std. dev.	Blackhat	6.6e-05
+SWIR2	Range	Blackhat	6.6e-05
+VV	Range	Closing	6.5e-05
+SWIR2	000%	Gradient	6.5e-05
+TC Wet	IQR	Tophat	6.5e-05
+NIR2	025%	Closing	6.5e-05
+Green	IQR	Closing	6.5e-05
+TC Bright	000%	Erosion	6.5e-05
+RE3	000%	Tophat	6.5e-05
+SWIR1	025%	Dilation	6.5e-05
+RE3	Std. dev.	Tophat	6.5e-05
+RE2	050%	Closing	6.4e-05
+TC Green	025%	Blackhat	6.3e-05
+NDVI	000%	Tophat	6.3e-05
+Blue	Kurtosis	Erosion	6.3e-05
+mNDWI	075%	Tophat	6.3e-05
+NIR2	025%	Gradient	6.3e-05
+Green	Range	Tophat	6.3e-05
+TC Bright	Average	Gradient	6.1e-05
+TC Wet	IQR	Erosion	6.1e-05
+RE1	075%	Closing	6.1e-05
+SWIR1	075%	Gradient	6.1e-05
+mNDWI	000%	Opening	6e-05
+VV	090%	Blackhat	6e-05
+TC Wet	000%	Erosion	6e-05
+VV	Range	Blackhat	6e-05
+mNDWI	100%	Tophat	6e-05
+RED	Average	Blackhat	6e-05
+mNDWI	Kurtosis	Dilation	6e-05
+RE2	Average	Tophat	5.9e-05
+RE2	010%	Blackhat	5.9e-05
+TC Wet	Std. dev.	Dilation	5.9e-05
+RE1	000%	Tophat	5.9e-05
+mNDWI	Skewness	Tophat	5.9e-05
+TC Wet	010%	Opening	5.9e-05
+TC Bright	Skewness	Opening	5.8e-05
+RE1	000%	Opening	5.8e-05
+VV	Range	Dilation	5.8e-05
+mNDWI	100%	Blackhat	5.7e-05
+NDBI	000%	Blackhat	5.7e-05
+NDBI	IQR	Erosion	5.7e-05
+SWIR2	090%	Dilation	5.7e-05
+VH	050%	Blackhat	5.6e-05
+RE1	075%	Gradient	5.6e-05
+mNDWI	Skewness	Dilation	5.6e-05
+SWIR2	IQR	Erosion	5.6e-05
+SWIR2	Kurtosis	Blackhat	5.5e-05
+VV	Skewness	Opening	5.4e-05
+RE1	Kurtosis	Dilation	5.4e-05
+RE2	050%	Tophat	5.4e-05
+TC Green	Kurtosis	Tophat	5.4e-05
+Blue	IQR	Dilation	5.3e-05
+SWIR1	050%	Blackhat	5.3e-05
+TC Wet	Kurtosis	Closing	5.3e-05
+RE1	Skewness	Blackhat	5.3e-05
+TC Bright	IQR	Dilation	5.3e-05
+Blue	Std. dev.	Opening	5.3e-05
+TC Wet	Kurtosis	Gradient	5.3e-05
+TC Bright	025%	Dilation	5.3e-05
+RE2	025%	Gradient	5.2e-05
+NIR2	090%	Tophat	5.2e-05
+SWIR2	010%	Gradient	5.2e-05
+NIR	Skewness	Tophat	5.1e-05
+SWIR2	Std. dev.	Opening	5.1e-05
+SWIR1	Skewness	Blackhat	5.1e-05
+RE2	025%	Tophat	5.1e-05
+RED	Skewness	Tophat	5.1e-05
+NIR2	Kurtosis	Dilation	5.1e-05
+Green	Average	Tophat	5.1e-05
+SWIR2	050%	Tophat	5.1e-05
+mNDWI	Std. dev.	Closing	5e-05
+Green	Average	Blackhat	5e-05
+TC Green	050%	Tophat	5e-05
+NDVI	Skewness	Tophat	4.9e-05
+Blue	090%	Blackhat	4.9e-05
+Blue	Range	Dilation	4.9e-05
+NIR	Range	Erosion	4.8e-05
+TC Wet	075%	Closing	4.8e-05
+NIR2	025%	Tophat	4.7e-05
+TC Bright	Kurtosis	Opening	4.7e-05
+VH	Skewness	Opening	4.7e-05
+RE1	Kurtosis	Erosion	4.6e-05
+NDBI	Std. dev.	Tophat	4.6e-05
+RE1	Std. dev.	Blackhat	4.6e-05
+RE3	Skewness	Erosion	4.5e-05
+Green	IQR	Erosion	4.5e-05
+TC Green	Std. dev.	Erosion	4.4e-05
+NIR2	075%	Dilation	4.4e-05
+RE1	Skewness	Opening	4.4e-05
+RE1	Range	Erosion	4.4e-05
+NDBI	Kurtosis	Erosion	4.3e-05
+NIR	025%	Tophat	4.3e-05
+Green	IQR	Tophat	4.3e-05
+SWIR2	Skewness	Gradient	4.2e-05
+NIR2	010%	Tophat	4.2e-05
+NDBI	090%	Blackhat	4.1e-05
+RE3	090%	Tophat	4.1e-05
+TC Bright	Kurtosis	Gradient	4.1e-05
+RE2	IQR	Tophat	4.1e-05
+VV	Skewness	Blackhat	4.1e-05
+mNDWI	Range	Tophat	4e-05
+RE3	Skewness	Dilation	4e-05
+TC Wet	090%	Blackhat	4e-05
+SWIR1	Average	Closing	3.9e-05
+TC Bright	025%	Tophat	3.9e-05
+NIR	Kurtosis	Blackhat	3.9e-05
+NIR2	010%	Gradient	3.8e-05
+TC Wet	Skewness	Dilation	3.8e-05
+TC Bright	Range	Gradient	3.8e-05
+SWIR1	Average	Tophat	3.8e-05
+TC Wet	IQR	Blackhat	3.7e-05
+SWIR2	050%	Gradient	3.7e-05
+RED	Std. dev.	Tophat	3.6e-05
+mNDWI	Kurtosis	Blackhat	3.6e-05
+mNDWI	025%	Blackhat	3.5e-05
+SWIR1	025%	Blackhat	3.5e-05
+NDBI	090%	Tophat	3.4e-05
+TC Wet	Std. dev.	Blackhat	3.4e-05
+SWIR2	025%	Blackhat	3.4e-05
+TC Bright	090%	Blackhat	3.4e-05
+NDVI	Skewness	Blackhat	3.3e-05
+SWIR2	Range	Tophat	3.3e-05
+RED	Range	Blackhat	3.3e-05
+VH	Std. dev.	Blackhat	3.3e-05
+TC Bright	Kurtosis	Erosion	3.2e-05
+Blue	000%	Opening	3.1e-05
+NIR2	Kurtosis	Blackhat	3.1e-05
+NDBI	075%	Blackhat	3.1e-05
+mNDWI	Std. dev.	Tophat	3.1e-05
+RE1	100%	Tophat	3e-05
+SWIR1	050%	Tophat	3e-05
+NIR	Skewness	Blackhat	3e-05
+RED	Skewness	Blackhat	3e-05
+NIR	025%	Dilation	3e-05
+Blue	IQR	Tophat	3e-05
+TC Green	Skewness	Erosion	2.9e-05
+VH	025%	Blackhat	2.9e-05
+RE1	090%	Blackhat	2.9e-05
+TC Bright	Skewness	Tophat	2.9e-05
+SWIR2	Kurtosis	Gradient	2.8e-05
+NIR2	050%	Tophat	2.8e-05
+TC Wet	000%	Gradient	2.8e-05
+Green	Kurtosis	Tophat	2.8e-05
+RE1	Kurtosis	Opening	2.7e-05
+RE3	Kurtosis	Dilation	2.7e-05
+VV	Kurtosis	Closing	2.7e-05
+NIR2	Skewness	Closing	2.7e-05
+NIR	000%	Tophat	2.7e-05
+NIR	Kurtosis	Tophat	2.6e-05
+mNDWI	Average	Tophat	2.6e-05
+VV	Std. dev.	Tophat	2.6e-05
+SWIR2	100%	Tophat	2.5e-05
+TC Wet	Kurtosis	Erosion	2.5e-05
+NIR	IQR	Tophat	2.4e-05
+NDVI	025%	Tophat	2.3e-05
+SWIR2	Std. dev.	Dilation	2.3e-05
+NIR	Kurtosis	Erosion	2.3e-05
+Green	Kurtosis	Opening	2.3e-05
+SWIR1	Std. dev.	Dilation	2.2e-05
+SWIR2	075%	Blackhat	2.2e-05
+RED	000%	Blackhat	2.2e-05
+TC Green	100%	Tophat	2.2e-05
+VH	Skewness	Blackhat	2.2e-05
+VH	Range	Tophat	2.1e-05
+RE1	000%	Blackhat	2.1e-05
+NIR	010%	Tophat	2.1e-05
+TC Bright	075%	Closing	2.1e-05
+NIR	Average	Tophat	2e-05
+TC Bright	010%	Dilation	1.9e-05
+SWIR2	000%	Blackhat	1.9e-05
+NDVI	075%	Tophat	1.9e-05
+TC Bright	100%	Tophat	1.8e-05
+RE1	Kurtosis	Tophat	1.8e-05
+SWIR1	Kurtosis	Erosion	1.7e-05
+Blue	025%	Blackhat	1.7e-05
+NDBI	100%	Tophat	1.7e-05
+TC Green	Kurtosis	Blackhat	1.7e-05
+NDBI	090%	Gradient	1.7e-05
+Green	Range	Blackhat	1.6e-05
+RE3	000%	Blackhat	1.6e-05
+Green	100%	Dilation	1.6e-05
+NDBI	010%	Gradient	1.6e-05
+SWIR1	Skewness	Opening	1.6e-05
+VV	Skewness	Closing	1.6e-05
+Green	075%	Tophat	1.6e-05
+VH	075%	Blackhat	1.5e-05
+TC Wet	090%	Erosion	1.5e-05
+SWIR2	010%	Blackhat	1.5e-05
+TC Wet	Range	Erosion	1.5e-05
+RE1	100%	Gradient	1.5e-05
+RE1	IQR	Opening	1.4e-05
+SWIR1	010%	Blackhat	1.4e-05
+NDVI	100%	Tophat	1.3e-05
+NDVI	IQR	Tophat	1.3e-05
+VV	Skewness	Tophat	1.3e-05
+VV	Kurtosis	Tophat	1.3e-05
+NIR	100%	Tophat	1.3e-05
+mNDWI	IQR	Closing	1.3e-05
+NDVI	090%	Tophat	1.3e-05
+SWIR1	Average	Gradient	1.2e-05
+Green	Skewness	Tophat	1.2e-05
+NDBI	Kurtosis	Tophat	1.2e-05
+TC Green	010%	Tophat	1.2e-05
+RE1	075%	Dilation	1.2e-05
+NDVI	Range	Tophat	1.1e-05
+Blue	000%	Blackhat	1.1e-05
+TC Bright	100%	Dilation	1.1e-05
+SWIR1	000%	Dilation	1.1e-05
+RE2	100%	Tophat	1e-05
+NIR2	000%	Tophat	1e-05
+Blue	Skewness	Tophat	1e-05
+TC Bright	025%	Closing	1e-05
+RED	Kurtosis	Blackhat	8e-06
+RE2	Skewness	Dilation	7e-06
+Green	Std. dev.	Tophat	7e-06
+NIR2	Kurtosis	Opening	7e-06
+TC Wet	050%	Erosion	7e-06
+Blue	IQR	Closing	7e-06
+SWIR2	Skewness	Erosion	6e-06
+NDVI	050%	Tophat	6e-06
+RE3	010%	Blackhat	6e-06
+NIR	050%	Dilation	6e-06
+RE1	Average	Tophat	6e-06
+mNDWI	090%	Erosion	5e-06
+mNDWI	000%	Erosion	5e-06
+VH	IQR	Blackhat	4e-06
+VH	Range	Gradient	3e-06
+SWIR1	025%	Tophat	3e-06
+Blue	075%	Tophat	3e-06
+RE1	010%	Tophat	3e-06
+SWIR2	Range	Dilation	3e-06
+TC Bright	Skewness	Blackhat	3e-06
+Green	Range	Dilation	2e-06
+RED	Std. dev.	Gradient	2e-06
+RE2	Kurtosis	Gradient	2e-06
+TC Wet	000%	Tophat	1e-06
+mNDWI	075%	Blackhat	0
+Green	Skewness	Gradient	0
+SWIR1	Range	Dilation	0
+mNDWI	100%	Opening	0
+SWIR1	Std. dev.	Tophat	0
+RE1	010%	Blackhat	0
+RE2	100%	Dilation	0
+NIR2	Kurtosis	Erosion	0
+NDBI	Skewness	Blackhat	0
+Blue	Std. dev.	Tophat	0
+RED	IQR	Closing	0
+RE2	Average	Closing	0
+SWIR2	100%	Dilation	0
+Blue	Range	Tophat	0
+SWIR2	Average	Tophat	0
+SWIR1	Range	Tophat	0
+RE3	025%	Dilation	0
+NIR	Skewness	Gradient	0
+NIR	Range	Gradient	0
+NDBI	100%	Blackhat	0
+NIR	010%	Gradient	0
+TC Wet	Range	Closing	0
+SWIR1	090%	Tophat	0
+NIR	Kurtosis	Gradient	0
+RE3	010%	Dilation	0
+Blue	090%	Tophat	0
+Blue	100%	Tophat	0
+Green	Range	Erosion	0
+mNDWI	Kurtosis	Gradient	0
+Green	Kurtosis	Erosion	0
+RE2	Average	Dilation	0
+RE1	025%	Gradient	0
+RED	IQR	Dilation	0
+VH	Skewness	Erosion	0
+TC Bright	IQR	Tophat	0
+TC Bright	Kurtosis	Dilation	0
+TC Wet	090%	Tophat	0
+TC Wet	050%	Tophat	0
+TC Wet	Average	Erosion	0
+TC Wet	010%	Tophat	0
+TC Wet	Range	Dilation	0
+TC Wet	Kurtosis	Dilation	0
+TC Green	Skewness	Tophat	0
+VH	Kurtosis	Dilation	0
+RE1	050%	Gradient	0
+NIR2	010%	Blackhat	0
+TC Green	Range	Tophat	0
+TC Green	Average	Tophat	0
+TC Bright	Skewness	Erosion	0
+Blue	Range	Blackhat	0
+TC Green	090%	Tophat	0
+VV	Skewness	Dilation	0
+VV	Kurtosis	Dilation	0
+SWIR1	Skewness	Erosion	0
+RED	Kurtosis	Erosion	0
+RE3	Kurtosis	Erosion	0
+RE1	Range	Opening	0
+TC Green	IQR	Tophat	0
+RE2	Kurtosis	Opening	0
+SWIR2	Skewness	Tophat	0
+RE1	Range	Closing	0
+VV	IQR	Tophat	0
+NDBI	010%	Blackhat	0
+NIR	Kurtosis	Closing	0
+VH	Kurtosis	Tophat	0
+VH	Skewness	Tophat	0
+mNDWI	Range	Blackhat	0
+NDVI	Skewness	Erosion	0
+VH	Std. dev.	Tophat	0
+Green	050%	Blackhat	0
+mNDWI	090%	Blackhat	0
+mNDWI	050%	Blackhat	0
+VH	100%	Tophat	0
+mNDWI	010%	Blackhat	0
+NDVI	Skewness	Opening	0
+NIR2	Std. dev.	Closing	0
+Green	Skewness	Blackhat	0
+TC Bright	Range	Tophat	0
+Blue	Std. dev.	Closing	0
+NIR	Skewness	Erosion	0
+Green	090%	Blackhat	0
+TC Wet	Std. dev.	Tophat	0
+Green	Std. dev.	Closing	0
+TC Wet	025%	Gradient	0
+SWIR2	Std. dev.	Gradient	0
+NDVI	Kurtosis	Tophat	0
+TC Wet	050%	Gradient	0
+SWIR2	100%	Gradient	0
+SWIR2	075%	Gradient	0
+TC Wet	090%	Gradient	0
+TC Wet	Average	Gradient	0
+SWIR2	025%	Gradient	0
+NDVI	Std. dev.	Tophat	0
+TC Bright	050%	Blackhat	0
+TC Green	025%	Tophat	0
+TC Wet	Std. dev.	Gradient	0
+RE2	000%	Tophat	0
+RE2	010%	Tophat	0
+SWIR2	Skewness	Blackhat	0
+SWIR2	IQR	Opening	0
+TC Wet	Skewness	Gradient	0
+SWIR2	Average	Blackhat	0
+RE2	090%	Tophat	0
+VH	000%	Gradient	0
+VH	090%	Gradient	0
+RE2	Std. dev.	Tophat	0
+NDVI	Average	Tophat	0
+SWIR2	Range	Gradient	0
+NIR	Std. dev.	Tophat	0
+VH	000%	Blackhat	0
+RE1	075%	Tophat	0
+VH	Kurtosis	Blackhat	0
+TC Wet	Range	Blackhat	0
+VV	000%	Blackhat	0
+TC Wet	Average	Blackhat	0
+VV	025%	Blackhat	0
+TC Wet	075%	Blackhat	0
+TC Bright	025%	Gradient	0
+VV	Kurtosis	Blackhat	0
+TC Wet	010%	Blackhat	0
+VV	075%	Blackhat	0
+RE1	Std. dev.	Tophat	0
+TC Bright	075%	Gradient	0
+NIR	090%	Tophat	0
+VV	100%	Blackhat	0
+RE1	Range	Tophat	0
+NIR	075%	Tophat	0
+NIR	050%	Tophat	0
+VV	Std. dev.	Blackhat	0
+VV	IQR	Blackhat	0
+TC Wet	010%	Gradient	0
+TC Wet	025%	Blackhat	0
+RE3	Average	Gradient	0
+RE3	050%	Gradient	0
+NIR2	090%	Dilation	0
+NIR2	Std. dev.	Dilation	0
+RE3	010%	Gradient	0
+RE3	000%	Gradient	0
+RE3	075%	Tophat	0
+RE3	100%	Tophat	0
+RE3	IQR	Tophat	0
+NIR2	Kurtosis	Tophat	0
+NIR2	Skewness	Tophat	0
+SWIR1	090%	Gradient	0
+RED	Kurtosis	Opening	0
+NIR	Kurtosis	Dilation	0
+RE3	Kurtosis	Tophat	0
+RE1	090%	Dilation	0
+RE1	100%	Dilation	0
+RE1	Std. dev.	Gradient	0
+RE2	000%	Blackhat	0
+RED	IQR	Tophat	0
+Blue	Kurtosis	Tophat	0
+SWIR1	000%	Tophat	0
+RE1	Average	Blackhat	0
+NIR2	Average	Tophat	0
+RE2	Range	Tophat	0
+SWIR1	050%	Gradient	0
+NDBI	IQR	Tophat	0
+SWIR1	IQR	Blackhat	0
+VH	100%	Gradient	0
+VH	Average	Gradient	0
+VH	Skewness	Gradient	0
+VV	000%	Gradient	0
+NDBI	Range	Tophat	0
+SWIR1	025%	Gradient	0
+SWIR1	010%	Gradient	0
+RE3	Skewness	Blackhat	0
+VV	Skewness	Gradient	0
+RED	IQR	Gradient	0
+VV	Kurtosis	Gradient	0
+Blue	Std. dev.	Dilation	0
+RED	100%	Gradient	0
+RED	100%	Blackhat	0
+mNDWI	IQR	Tophat	0
+RE3	025%	Tophat	0
+RED	025%	Blackhat	0
+RED	010%	Blackhat	0
+RE3	050%	Tophat	0
+RE3	Kurtosis	Blackhat	0
+SWIR1	000%	Gradient	0
